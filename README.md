@@ -1,4 +1,4 @@
-# Rx-MVVM-C Xcode Template
+# MVVMR + C Xcode Template
 
 ## How to install/uninstall
 
